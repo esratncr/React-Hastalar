@@ -1,0 +1,42 @@
+{
+    "randevular": [
+        {
+            "id": "1",
+            "date": "28.07.2023",
+            "hastaId": "1"
+        }
+    ],
+    "hastalar": [
+        {
+            "id": "1",
+            "name": "deneme",
+            "surname": "denemee",
+            "phone": "5555",
+            "islemIds": [
+                "1",
+                "2"
+            ]
+        }
+    ],
+    "islemler": [
+        {
+            "id": "1",
+            "sikayet": "grip",
+            "uygulananTedavi": "2 gün istirahat tavsiye",
+            "yazilanIlaclar": [
+                "parol",
+                "katarin",
+                "agumantine"
+            ]
+        },
+        {
+            "id": "1",
+            "sikayet": "bel ağrısı",
+            "uygulananTedavi": "ayakta",
+            "yazilanIlaclar": [
+                "parol",
+                "voltaren"
+            ]
+        }
+    ]
+}

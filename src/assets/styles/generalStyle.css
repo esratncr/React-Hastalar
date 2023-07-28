@@ -1,0 +1,8 @@
+.menuLink{
+    text-decoration: none;
+    color: #c0b7b7;
+    font-family:sans-serif ;
+}
+.menuLink:hover{
+    color: #fff
+}
