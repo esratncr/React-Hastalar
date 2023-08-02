@@ -1,51 +1,58 @@
 {
-    "randevular": [
-        {
-            "id": "1",
-            "date": "28.07.2023",
-            "hastaId": "1"
-        }
-    ],
-    "hastalar": [
-        {
-            "id": "1",
-            "name": "deneme",
-            "surname": "denemee",
-            "phone": "05555555555",
-            "islemIds": [
-                "1",
-                "2"
-            ]
-        }, 
-        {
-            "id": "2",
-            "name": "deneme2",
-            "surname": "denemee22",
-            "phone": "777",
-            "islemIds": [
-                "1"
-            ]
-        }
-    ],
-    "islemler": [
-        {
-            "id": "1",
-            "sikayet": "grip",
-            "uygulananTedavi": "2 gün istirahat tavsiye",
-            "yazilanIlaclar": [
-                "parol",
-                "katarin",
-                "agumantine"
-            ]
-        },
-        {
-            "id": "1",
-            "sikayet": "bel ağrısı",
-            "uygulananTedavi": "ayakta",
-            "yazilanIlaclar": [
-                "parol",
-                "voltaren"
-            ]
-        }
-    ]
+  "randevular": [
+    {
+      "id": "1",
+      "date": "28.07.2023",
+      "hastaId": "1"
+    }
+  ],
+  "hastalar": [
+    {
+      "id": "1",
+      "firstName": "deneme",
+      "lastName": "denemee",
+      "phone": "05383771182",
+      "islemIds": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "id": "2",
+      "firstName": "deneme2",
+      "lastName": "denemee22",
+      "phone": "05331666710",
+      "islemIds": [
+        "1"
+      ]
+    },
+    {
+      "id": "1690999422919",
+      "firstName": "kübra",
+      "lastName": "tuncer",
+      "phone": "05373551182",
+      "islemIds": []
+    }
+  ],
+  "islemler": [
+    {
+      "id": "1",
+      "sikayet": "grip",
+      "uygulananTedavi": "2 gün istirahat tavsiye",
+      "yazilanIlaclar": [
+        "parol",
+        "katarin",
+        "agumantine"
+      ]
+    },
+    {
+      "id": "1",
+      "sikayet": "bel ağrısı",
+      "uygulananTedavi": "ayakta",
+      "yazilanIlaclar": [
+        "parol",
+        "voltaren"
+      ]
+    }
+  ]
 }
